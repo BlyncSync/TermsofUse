@@ -53,7 +53,7 @@ actions, neglect or recklessness, I acknowledge and agree to be held liable for 
 with any actions of neglect or recklessness.
 This Agreement was entered into at arm's-length, without duress or coercion, and is to be interpreted as an
 agreement between two parties of equal bargaining strength. Both the Participant,
-__________________________, and BlyncSync Technologies LLC agree that this Agreement is clear and
+By using this software, you and BlyncSync Technologies LLC agree that this Agreement is clear and
 unambiguous as to its terms, and that no other evidence will be used or admitted to alter or explain the
 terms of this Agreement, but that it will be interpreted based on the language in accordance with the
 purposes for which it is entered into.
@@ -67,18 +67,4 @@ In the event of an emergency, please contact the following person(s) in the orde
 Emergency Contact Contact Relationship Contact Telephone
 I, the undersigned participant, affirm that I am of the age of 18 years or older, and that I am freely signing
 this agreement. I certify that I have read this agreement, that I fully understand its content and that this
-release cannot be modified orally. I am aware that this is a release of liability and a contract and that I am
-signing it of my own free will.
-Participant's Name:
-Participant's Address:
-Signature:
-Date:
-PARENT / GUARDIAN WAIVER FOR MINORS
-In the event that the participant is under the age of consent (18 years of age), then this release must be
-signed by a parent or guardian, as follows:
-I hereby certify that I am the parent or guardian of ____________________________, named above, and
-do hereby give my consent without reservation to the foregoing on behalf of this individual.
-Parent / Guardian Name:
-Relationship to Minor:
-Signature:
-Date:
+release cannot be modified orally. I am aware that this is a release of liability and a contract and that, by using this software I am agreeing to it of my own free will.
